@@ -1,2 +1,2 @@
-let yakun("hali yakunlanmadi")
+let yakun =("hali yakunlanmadi")
 alert(yakun);
